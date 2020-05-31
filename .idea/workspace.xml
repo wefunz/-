@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16588240-0a43-46d4-9118-05b308be93ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XCF2zZ7HYyGuLcwNsQrQQACh4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weibo" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.quanguo">
+    <configuration name="10th" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weiboyiqing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10th.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="weiboyiqing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="history_ncov" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weiboyiqing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/history_ncov.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hunan_move_in" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weiboyiqing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hunan_move_in.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jiekou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weiboyiqing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiekou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quanguo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weiboyiqing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\Python\electric_analyse\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quanguo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.quanguo" />
+        <item itemvalue="Python.history_ncov" />
+        <item itemvalue="Python.10th" />
+        <item itemvalue="Python.jiekou" />
+        <item itemvalue="Python.hunan_move_in" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16588240-0a43-46d4-9118-05b308be93ce" name="Default Changelist" comment="" />
+      <created>1580541967165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580541967165</updated>
+      <workItem from="1583754161418" duration="55000" />
+      <workItem from="1583754814983" duration="149000" />
+      <workItem from="1583756268019" duration="290000" />
+      <workItem from="1583756607269" duration="1397000" />
+      <workItem from="1583759134610" duration="305000" />
+      <workItem from="1583759729915" duration="29000" />
+      <workItem from="1583805334489" duration="270000" />
+      <workItem from="1583894593924" duration="1989000" />
+      <workItem from="1583979517749" duration="442000" />
+      <workItem from="1584069533879" duration="1047000" />
+      <workItem from="1584156950826" duration="1093000" />
+      <workItem from="1584240099749" duration="538000" />
+      <workItem from="1584321540118" duration="261000" />
+      <workItem from="1584422962036" duration="643000" />
+      <workItem from="1584509095716" duration="734000" />
+      <workItem from="1584588573786" duration="238000" />
+      <workItem from="1584670745572" duration="3169000" />
+      <workItem from="1584760745656" duration="3589000" />
+      <workItem from="1584850826991" duration="460000" />
+      <workItem from="1584852143432" duration="110000" />
+      <workItem from="1584955151150" duration="100000" />
+      <workItem from="1585019031161" duration="722000" />
+      <workItem from="1585057388648" duration="188000" />
+      <workItem from="1585148376464" duration="920000" />
+      <workItem from="1585199854890" duration="111000" />
+      <workItem from="1585281501155" duration="131000" />
+      <workItem from="1585398366900" duration="1227000" />
+      <workItem from="1585539693812" duration="855000" />
+      <workItem from="1585662651268" duration="674000" />
+      <workItem from="1585727767598" duration="793000" />
+      <workItem from="1585793543758" duration="254000" />
+      <workItem from="1585878544702" duration="1221000" />
+      <workItem from="1585970875188" duration="194000" />
+      <workItem from="1586088004652" duration="235000" />
+      <workItem from="1586140779344" duration="1398000" />
+      <workItem from="1586270881794" duration="418000" />
+      <workItem from="1586316567990" duration="1201000" />
+      <workItem from="1586401960335" duration="217000" />
+      <workItem from="1586485649210" duration="131000" />
+      <workItem from="1586576600925" duration="1214000" />
+      <workItem from="1586665409263" duration="767000" />
+      <workItem from="1586744134643" duration="1474000" />
+      <workItem from="1586831350566" duration="295000" />
+      <workItem from="1586941553532" duration="689000" />
+      <workItem from="1587004297710" duration="175000" />
+      <workItem from="1587100893543" duration="765000" />
+      <workItem from="1587177911181" duration="651000" />
+      <workItem from="1587264138949" duration="752000" />
+      <workItem from="1587346688844" duration="1369000" />
+      <workItem from="1587433783629" duration="1208000" />
+      <workItem from="1587521043588" duration="630000" />
+      <workItem from="1587607997728" duration="593000" />
+      <workItem from="1587691902468" duration="574000" />
+      <workItem from="1587786889200" duration="835000" />
+      <workItem from="1587868891856" duration="171000" />
+      <workItem from="1587951930211" duration="1131000" />
+      <workItem from="1588039312731" duration="2644000" />
+      <workItem from="1588123677338" duration="709000" />
+      <workItem from="1588129119407" duration="64000" />
+      <workItem from="1588210882178" duration="150000" />
+      <workItem from="1588216747066" duration="976000" />
+      <workItem from="1588228205872" duration="2419000" />
+      <workItem from="1588417822960" duration="758000" />
+      <workItem from="1588472004916" duration="177000" />
+      <workItem from="1588553402355" duration="518000" />
+      <workItem from="1588644912803" duration="252000" />
+      <workItem from="1588730094256" duration="692000" />
+      <workItem from="1588816574639" duration="343000" />
+      <workItem from="1588906184600" duration="305000" />
+      <workItem from="1588989047504" duration="1310000" />
+      <workItem from="1589118819942" duration="318000" />
+      <workItem from="1589250849853" duration="179000" />
+      <workItem from="1589334028268" duration="1721000" />
+      <workItem from="1589443231912" duration="205000" />
+      <workItem from="1589512514984" duration="2984000" />
+      <workItem from="1589599672866" duration="633000" />
+      <workItem from="1589722348586" duration="723000" />
+      <workItem from="1589764170210" duration="364000" />
+      <workItem from="1589943425190" duration="1525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="48" key="#10th" timestamp="1582781800460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="48" key="#10th/0.0.1536.824@0.0.1536.824" timestamp="1582781800460" />
+    <state x="484" y="48" key="#quanguo" timestamp="1585148397308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="48" key="#quanguo/0.0.1536.824@0.0.1536.824" timestamp="1585148397308" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1588129181968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588129181968" />
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom" timestamp="1589954678741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589954678741" />
+    <state width="1493" height="271" key="GridCell.Tab.0.center" timestamp="1589954678741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589954678741" />
+    <state width="1493" height="271" key="GridCell.Tab.0.left" timestamp="1589954678741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589954678741" />
+    <state width="1493" height="271" key="GridCell.Tab.0.right" timestamp="1589954678741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589954678741" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584765152542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584765152542" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584765152542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584765152542" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584765152542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584765152542" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584765152542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584765152542" />
+    <state x="328" y="110" key="SettingsEditor" timestamp="1589764348613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="328" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589764348613" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1582858796400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582858796400" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584763189094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584763189094" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/weiboyiqing$quanguo.coverage" NAME="quanguo Coverage Results" MODIFIED="1589943477274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
